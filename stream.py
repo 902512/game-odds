@@ -1,7 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 
 def get_team(code):
     for team in teams:
